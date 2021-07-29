@@ -1,4 +1,4 @@
-        
+        /* header */
         body {
             font-family: poppins, sans-serif;
         }
@@ -25,9 +25,9 @@
             content: "*";
             color: red;
         }
-        
+        /* header finished */
+
         /* main */
-        
         /* featured section */
         #featured-p {
             font-weight: 600;
@@ -59,7 +59,7 @@
         i{
             color: #E77C40;
         }
-        /* finished */
+        /* main finished */
 
         /* FAQ */
         #questions-color {
@@ -75,5 +75,6 @@
             font-weight: 600;
             color: #7E848C;
         }
+        /* faq finished */
 
 
