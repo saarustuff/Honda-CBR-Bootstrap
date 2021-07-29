@@ -1,8 +1,44 @@
-.body{
-    font-family: 'Poppins', sans-serif
-}
+        .bg {
+            background-color: #264653;
+        }
+        .text p{
+            color:#E0E0E0;
+        }
+        .button-purchase {
+            background-color: #E76F51;
+        }
+        .modal-header {
+            background: #d41f12;
+            color: #fff;
+        }
+        .modal-body h3 {
+            color: #d41f12;
+        }
+        .modal-body p {
+            font-weight: 600;
+        }
+        .required:after {
+            content: "*";
+            color: red;
+        }
+        
+        /* main */
+        
+        /* featured section */
+        #featured-p {
+            font-weight: 600;
+            color: #E76F51;
+        }
+        .hr { 
+            color: red; 
+            border: 1px solid red;
+            align-content : center;
+            width : 60px;
+            margin-top: -10px;
+            margin-left : auto;
+            margin-right : auto;
+            }
+        .grayscale img {
+                filter: grayscale(1);} 
 
-/* header background */
-.bg-success{
-    background-color: #264653;
-}
+
