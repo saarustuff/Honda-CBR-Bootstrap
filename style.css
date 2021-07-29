@@ -39,6 +39,35 @@
             margin-right : auto;
             }
         .grayscale img {
-                filter: grayscale(1);} 
+            filter: grayscale(1);} 
+        /* featured section finished */
+        
+        /* clients section */
+        .name-link a {
+            text-decoration: none;
+            font-weight: 500;
+        }
+        .name-link img {
+            align-items: center;
+            height: 150px;
+            width: 150px;
+        }
+        i{
+            color: #E77C40;
+        }
+        /* FAQ */
+        #questions-color {
+            color: #E76F51;}
+        .faq-image img {
+            height: 430px;
+            width: 430px;
+        }
+        
+        /* FAQ accordion */
+        
+        .accordion-text p, li{
+            font-weight: 600;
+            color: #7E848C;
+        }
 
 
